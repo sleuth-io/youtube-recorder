@@ -1,0 +1,4 @@
+evdev==1.4.0
+obs-websocket-py==0.5.3
+six==1.16.0
+websocket-client==1.2.1
